@@ -20,12 +20,12 @@ header{
   width: 120px;
   margin-bottom: 10px;
  }
-.first{
+.latest-news-section{
 	display:flex;
 	flex-direction:column;
 	align-items:center;
 }
-.first h2{
+.latest-news-section h2{
 	font-size:15px;
 	
 }
@@ -41,7 +41,7 @@ header{
 .second h1{
 	font-size :20px;
  }
- .third{
+ .pictorial-news-section{
   display: flex;
   flex-direction: column;
   font-size :10px;
